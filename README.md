@@ -16,29 +16,16 @@ cd freeradius-config
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
-## Install using WGET
-```
-sudo apt-get install wget unzip
-```
-```
-wget https://github.com/Focuslinkstech/freeradius-config/archive/refs/heads/main.zip
-unzip *.zip
-```
-```
-sudo mv freeradius-config-main freeradius-config
-cd freeradius-config
-sudo chmod +x install.sh
-sudo ./install.sh
-```
 
 ## Note
 After Successful Installation without error
-Vistit http://host-or-ip/phpnuxbill/ 
-Replace [host-or-ip] with your ip address or hostname
-You may wish to move the files to root folder, so that you can access nuxbill directly without sub-folder e.g http://host-or-ip/
+You have to move the files to root folder, so that you can access it directly without sub-folder e.g http://host-or-ip/
 ```
 sudo mv /var/www/html/phpnuxbill/* /var/www/html
 ```
+Vistit http://host-or-ip/
+Replace [host-or-ip] with your ip address or hostname
+
 
 
 
