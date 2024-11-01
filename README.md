@@ -2,7 +2,7 @@
 This script will guide you through the installation and configuration of the following components:
 - LAMP stack (Linux, Apache, MySQL/MariaDB, PHP)               
 * FreeRADIUS for authentication and authorization
-* Hotspot Billing software for accounting and authorization.
+- Hotspot Billing software for accounting and authorization.
 
 ## Install using GIT
 ```
