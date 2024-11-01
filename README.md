@@ -1,8 +1,8 @@
 # freeradius-config
-PHPNuxBill Installation Shell Script, this script will guide you through the installation and configuration of the following components:
+This script will guide you through the installation and configuration of the following components:
 - LAMP stack (Linux, Apache, MySQL/MariaDB, PHP)               
-* FreeRADIUS for authentication and authorization          
-+ PHPNuxBill for billing and network management          
+* FreeRADIUS for authentication and authorization
+* Hotspot Billing software for accounting and authorization.
 
 ## Install using GIT
 ```
