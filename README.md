@@ -9,7 +9,7 @@ PHPNuxBill Installation Shell Script, this script will guide you through the ins
 sudo apt-get install git
 ```
 ```
-sudo git clone https://github.com/Focuslinkstech/freeradius-config.git
+sudo git clone https://github.com/mahmud1448/hotspot_billing.git
 ```
 ```
 cd freeradius-config
