@@ -12,7 +12,7 @@ sudo apt-get install git
 sudo git clone https://github.com/mahmud1448/smbilling.git
 ```
 ```
-cd freeradius-config
+cd smbilling
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
