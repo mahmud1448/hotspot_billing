@@ -9,7 +9,7 @@ This script will guide you through the installation and configuration of the fol
 sudo apt-get install git
 ```
 ```
-sudo git clone https://github.com/mahmud1448/hotspot_billing.git
+sudo git clone https://github.com/mahmud1448/smbilling.git
 ```
 ```
 cd freeradius-config
