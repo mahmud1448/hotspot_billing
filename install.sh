@@ -20,9 +20,6 @@ echo "
 #  After the installation, the script will restart Apache to       #
 #  ensure all changes take effect.                                 #
 #                                                                  #
-#  Donate: https://paypal.me/focuslinkstech                        #
-#  Support: https://t.me/focuslinkstech                            #
-#                                                                  #
 ####################################################################
 "
 sleep 5
